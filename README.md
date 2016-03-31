@@ -1,0 +1,2 @@
+# ArtificalNeuralNetwork
+Simple FeedForward ANN
